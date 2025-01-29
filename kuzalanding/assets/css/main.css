@@ -87,6 +87,18 @@ h6 {
   font-family: var(--heading-font);
 }
 
+.sitename {
+  font-family: var(--heading-font);
+}
+
+.sitename span.kuza {
+  color: yellow;
+}
+
+.sitename span.devs {
+  color: blue;
+}
+
 /* PHP Email Form Messages
 ------------------------------*/
 .php-email-form .error-message {
